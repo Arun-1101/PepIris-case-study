@@ -1,4 +1,4 @@
-# 📱 PepIris — ML-Powered Retail Intelligence App
+# 📱  ML-Powered Retail Intelligence App
 
 PepIris is a multi-market retail intelligence platform used for SKU detection, KPI computation, and shelf analytics.  
 It combines **React Native**, **Turbo Modules**, **ONNX**, **Node.js**, and **Django REST** into a unified on-device + cloud ML workflow.
